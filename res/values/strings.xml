@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WhatIsMick</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="intro">Please tell me, what do your think about Mick? No need in a very detail. It could be a rough concept.\n\n請告訴我你對於Mick的想法,不一定需要非常詳細,可以是個簡單的概念\n\n對了,Mick是指劉信廷...</string>
+	<string name="hint">Please type here~\n請在這裡打字</string>
+	<string name="send">Send 送出</string>
+	<string name="watch">Watch</string>
+	<string name="error_empty">沒寫字耶</string>
+	<string name="progress_title">上傳中</string>
+	<string name="progress_message">請稍候</string>
+</resources>
